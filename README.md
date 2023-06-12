@@ -22,7 +22,7 @@ OxyMusic-Server has been implemented using the following technologies and tools:
 
 1. Download release for your operating system.
 2. unpack
-3. Run the server by entering 'java -jar OxyMusic-Server.jar' in the command line.
+3. Run the server by entering 'java -jar OxyMusic-Server.jar' in the command line (server is running on port: 1250 using http protocol).
 
 ## Contributors
 
